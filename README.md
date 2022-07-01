@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @originyuan
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Spring Cloud Alibaba
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
